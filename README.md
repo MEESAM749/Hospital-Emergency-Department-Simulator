@@ -6,7 +6,8 @@ This is a piece of software designed to simulate a hospital emergency department
 The goal of this is to be able to collect important data which will help in designing a more efficient ED management system.  
 
 # Logical Flow Of The Simulation:
-![image](https://github.com/user-attachments/assets/ffae806f-c0bc-43b0-98bb-b31d2ef4118d)![image](https://github.com/user-attachments/assets/768f5884-0b2b-49fa-ad35-7b1da077d76a)  
+![image](https://github.com/user-attachments/assets/0f82f4ae-9807-45a5-813f-406fa3846387)
+![image](https://github.com/user-attachments/assets/768f5884-0b2b-49fa-ad35-7b1da077d76a)  
 # Implementation:
 •	This simulator has been implemented in C++ using the QT Creator IDE for the design and implementation of the GUI.
 •	This program uses a single patient class to take care of all things like different types of beds and queues.
