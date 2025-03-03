@@ -1,5 +1,6 @@
 # Hospital-Emergency-Department-Simulator
-This was our semester project for the course "Object Oriented Programming"
+This was our semester project for the course "Object Oriented Programming"  
+NOTE:THIS SIMULATION TREATS TIME IN SECONDS. SO IF YOU WRITE 60 IN THE SIMULATION TIME INPUT FIELD, IT WILL SIMULATE 1 MINUTE.
 
 # Introduction:
 This is a piece of software designed to simulate a hospital emergency department simulation environment. An ED is the place where you go when you are potentially seriously ill. Like getting shot.  
