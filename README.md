@@ -13,7 +13,7 @@ The goal of this is to be able to collect important data which will help in desi
 •	This simulator has been implemented in C++ using the QT Creator IDE for the design and implementation of the GUI.  
 •	This program uses a single patient class to take care of all things like different types of beds and queues.  
 •	Weibull and Pearson VI distributions have been used with Rejection Sampling to generate patient details like arrival time, treatment time and post treatment time.  
-•	Currently it simulates one type of disease only. You may add more if you like but for the sake of our sanity, we have decided to just keep this to one disease for now.  
+•	Currently it simulates one type of subdepartment(Gastrointerology) only. You may add more if you like but for the sake of our sanity, we have decided to just keep this to one subdepartment for now. What this means is that for now, all the patients arriving have gastro related issues only. This is because the parameters for the distributions vary from department to department.  
 # Key Features:
 •	Fully functional  
 •	Has a GUI  
